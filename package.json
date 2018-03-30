@@ -1,0 +1,11 @@
+{
+  "name": "vue-render-legacy",
+  "version": "1.0.0",
+  "description": "Conditional rendering between legacy and evergreen browsers",
+  "main": "dist/vue-render-legacy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonçalo Cancella de Abreu <im@goncalo.eu>",
+  "license": "MIT"
+}
